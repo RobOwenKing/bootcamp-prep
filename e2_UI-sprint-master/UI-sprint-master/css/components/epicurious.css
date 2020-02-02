@@ -1,0 +1,39 @@
+.epicurious {
+	background-color: #181818;
+}
+
+.card {
+  position: relative;
+  height: 400px;
+  background-color: white;
+}
+
+.epi-photo {
+	position: absolute;
+	width: auto;
+  height: 200px;
+  size: cover;
+}
+.epi-category {
+  position: absolute;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #F93F23;
+  top: 210px;
+  left: 10px;
+}
+.epi-desc {
+  position: absolute;
+  top: 220px;
+  left: 10px;
+}
+.epi-desc h3 {
+	font-family: "Source Serif Pro", serif;
+	font-weight: bold;
+	font-size: 20px;
+	color: #181818;
+}
+.epi-desc p {
+	font-family: Alata, sans-serif;
+	color: #9999B3;
+}

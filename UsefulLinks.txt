@@ -1,0 +1,29 @@
+Icon sets
+ - https://iconstore.co/ (Free sets)
+ - https://thenounproject.com/ (Over 2 Million icons, royalty–free)
+ - https://nucleoapp.com/premium-icons/ (Premium, but you get what you pay for)
+ - https://fontawesome.com/
+
+Fonts
+ - https://fonts.google.com/
+
+Colour picker for Chrome
+ - https://www.colorzilla.com/chrome/
+
+Colour schemes
+ - https://coolors.co/
+ - https://colorhunt.co/
+
+Stock photos
+ - https://www.pexels.com/ (and video)
+
+CSS libraries
+ - https://getbootstrap.com/
+ - https://material.io/design/
+
+Javascript
+ - https://jsbin.com/
+
+APIs
+ - https://www.programmableweb.com/ (directory)
+ - https://snazzymaps.com/ (to stylise Google Maps)
